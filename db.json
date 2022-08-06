@@ -1,0 +1,23 @@
+{
+    "penumpang": {
+        "responseCode": "RSx700005",
+        "responseMessage": "Ferizy Service - RsRsPassengerCategoryRf Sukses",
+        "responseReferenceNo": "124084d1e35946b8984e332d0c197d6b",
+        "penumpang": {
+            "id": "penumpang",
+            "name": "Penumpang",
+            "data": [
+                {
+                    "serviceName": "Dewasa Ekonomi",
+                    "serviceCode": "DEWASA",
+                    "description": ">5 Tahun"
+                },
+                {
+                    "serviceName": "Bayi",
+                    "serviceCode": "BAYI",
+                    "description": "0 - 2 Tahun"
+                }
+            ]
+        }
+    }
+}
